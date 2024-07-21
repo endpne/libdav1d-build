@@ -24,7 +24,7 @@ let package = Package(
         .binaryTarget(
             name: "Libdav1d",
             url: "https://github.com/mpvkit/libdav1d-build/releases/download/1.4.3/Libdav1d.xcframework.zip",
-            checksum: "eccfe37da9418e350bc6c1566890fa5b9585fbb87b8ceb664de77800ef17fe04"
+            checksum: "302c5fb745dff774cab1b7b37e7840d8f20abec62f33e919dd1541ccd8146604"
         ),
         //AUTO_GENERATE_TARGETS_END//
     ]
